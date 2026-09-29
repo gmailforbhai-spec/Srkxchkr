@@ -1,0 +1,20 @@
+{
+  "ZAYN-D84RK-K8LM5-G7ETE": {
+    "plan": "custom",
+    "days": 1,
+    "max_uses": 1,
+    "usage_count": 1,
+    "created_at": 1790309862.3921409,
+    "redeemed_by": 7401304233,
+    "redeemed_at": 1790309872.054857
+  },
+  "ZAYN-YR0H4-8VF2F-FVSCS": {
+    "plan": "custom",
+    "days": 1,
+    "max_uses": 1,
+    "usage_count": 1,
+    "created_at": 1790309937.8693714,
+    "redeemed_by": 7401304233,
+    "redeemed_at": 1790309946.5115404
+  }
+}

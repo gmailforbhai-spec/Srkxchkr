@@ -1,0 +1,27 @@
+{
+  "8995473746": {
+    "hits": [
+      {
+        "type": "Charged",
+        "card": "6011006892094161|06|2029|362",
+        "message": "ORDER_PAID",
+        "price": "3.0",
+        "gateway": "Shopify Payments",
+        "bin_info": [],
+        "source": "log",
+        "ts": 1790311229.6466415
+      },
+      {
+        "type": "Charged",
+        "card": "6011006892094161|06|2029|362",
+        "message": "ORDER_PAID",
+        "price": "3.0",
+        "gateway": "Shopify Payments",
+        "bin_info": [],
+        "source": "stealer",
+        "ts": 1790311230.0022225
+      }
+    ],
+    "first_seen": 1790311229.6466367
+  }
+}
